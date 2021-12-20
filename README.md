@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+###https://jsonplaceholder.typicode.com/users API
+
+###axios to make the request
